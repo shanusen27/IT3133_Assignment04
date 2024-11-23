@@ -9,7 +9,7 @@ function AnimalTable(props){
     const [result,setResult] = useState('');
     useEffect(()=>{
         generateRandomAnimal();
-    },[])
+    },[]);
 
     const generateRandomAnimal = () =>{
         const randomIndex = Math.floor(Math.random() * 10) + 1;
