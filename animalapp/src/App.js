@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <AnimalTable/>
     </div>
-  )
+  );
 }
 
 export default App;
