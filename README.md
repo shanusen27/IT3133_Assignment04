@@ -2,6 +2,7 @@ The game's main objective is to enhance children's object recognition and langua
 
 Technologies Used React.js: Frontend framework for building the user interface. JavaScript: Game logic and interactivity. CSS: Styling and layout
 
-![Screenshot (302)](https://github.com/user-attachments/assets/554e63fc-1304-4e1f-97fb-cb590cb282ca)
+![Screenshot (303)](https://github.com/user-attachments/assets/9824beb3-24db-4991-8e0e-cf71f020ce42)
+
 
 
