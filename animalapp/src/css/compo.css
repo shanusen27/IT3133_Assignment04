@@ -50,3 +50,8 @@
     transform: scale(1,1);
 }
 
+.animal_image{
+    width:50%;
+    height:auto;
+    object-fit:cover;
+}
