@@ -1,0 +1,57 @@
+.gameContainer{
+    text-align:center;
+    margin:20px;
+    border-collapse:collapse;
+}
+
+.game_table{
+    margin:0 auto;
+    border-collapse:collapse;
+    width:100%;
+    border:1px solid #ff9900;
+}
+
+.game_table th,
+.game_table td {
+    border: 1px solid #ff9900;
+    padding: 10px;
+    text-align: center;
+    vertical-align:top;
+    font-weight:bolder;
+    font-size:large;
+}
+
+.result_col,
+.animalname_col{
+    text-align:center;
+    color:#ff9900;
+}
+
+.animalgrid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap:15px;
+    background-color:#6d8de6;
+
+}
+
+.animalgride_item{
+    width:max-content;
+    height:max-content;
+    border:1px solid #ccc;
+    border-radius:4px;
+    cursor:pointer;
+    transition:transform 0.2s;
+    background-color:#ff9900;
+}
+
+.animalgride_item:hover{
+    transform: scale(1,1);
+}
+
+.animal_image{
+    width:50%;
+    height:auto;
+    object-fit:cover;
+}
